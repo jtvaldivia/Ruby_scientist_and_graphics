@@ -1,0 +1,30 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+# macOS
+.DS_Store
+
+# Ruby / Bundler
+Gemfile.lock
+*.gem
+.byebug_history
+.pry_history
+
+# Editors
+.vscode/
+.idea/
+
+# Test artifacts
+test/*.png
+test/*.json
+test/output*.png
+test/bar_test.png
+test/line_test.png
+test/project.json
+test/output_demo.png
